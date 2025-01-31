@@ -1,24 +1,23 @@
-import java.util.Scanner;
-
 public class ToggleCase {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a string: ");
-        String input = scanner.nextLine();
-        scanner.close();
-        
-        StringBuilder toggled = new StringBuilder();
-        
-        for (char c : input.toCharArray()) {
+    public static String toggleCase(String str) {
+        String result = "";
+        for (int i = 0; i < str.length(); i++) {
+            char c = str.charAt(i);
             if (Character.isUpperCase(c)) {
-                toggled.append(Character.toLowerCase(c));
+                result += Character.toLowerCase(c);
             } else if (Character.isLowerCase(c)) {
-                toggled.append(Character.toUpperCase(c));
+                result += Character.toUpperCase(c);
             } else {
-                toggled.append(c);
+                result += c;
             }
         }
-        
-        System.out.println("Toggled string: " + toggled.toString());
+        return result;
+    }
+
+    public static void main(String[] args) {
+        String input = "Hello World!";
+        String output = toggleCase(input);
+        System.out.println("Original String: " + input);
+        System.out.println("Toggled String: " + output);
     }
 }
