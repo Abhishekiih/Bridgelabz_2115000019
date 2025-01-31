@@ -1,22 +1,19 @@
-import java.util.Scanner;
-
 public class RemoveCharacter {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a string: ");
-        String input = scanner.nextLine();
-        System.out.print("Enter the character to remove: ");
-        char charToRemove = scanner.next().charAt(0);
-        scanner.close();
-        
-        StringBuilder result = new StringBuilder();
-        
-        for (char c : input.toCharArray()) {
-            if (c != charToRemove) {
-                result.append(c);
+    public static String removeCharacter(String str, char ch) {
+        String result = "";
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) != ch) {
+                result += str.charAt(i);
             }
         }
-        
-        System.out.println("Modified String: " + result.toString());
+        return result;
+    }
+
+    public static void main(String[] args) {
+        String input = "Hello World";
+        char charToRemove = 'l';
+        String output = removeCharacter(input, charToRemove);
+        System.out.println("Original String: " + input);
+        System.out.println("Modified String: " + output);
     }
 }
