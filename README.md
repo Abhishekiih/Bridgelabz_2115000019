@@ -5,8 +5,8 @@
 - **Topics:**  
   - Basic Arithmetic & Mathematical Computations (Addition, Average, Power Calculation).
   - Geometry & Measurements (Area of Circle, Perimeter of Rectangle, Volume of Cylinder).
-  - Conversions & Finance (Temperature Conversion, Distance Conversion, Simple Interest Calculation). 
-
+  - Conversions & Finance (Temperature Conversion, Distance Conversion, Simple Interest Calculation).
+    
 ---
 
 **Day-2**  
@@ -64,9 +64,9 @@
 **Day-8**  
 - **31-Jan-2025**  
 - **Topics:**  
-  - Procedural vs Object-Oriented Programming (OOP): Procedural programming focuses on functions and procedures to perform tasks, while OOP organizes code around objects and       
+  - Procedural vs Object-Oriented Programming (OOP) - Procedural programming focuses on functions and procedures to perform tasks, while OOP organizes code around objects and       
     classes, encouraging reusability, inheritance, and encapsulation.
-  - Class and Object: A class defines the blueprint for creating objects, and an object is an instance of that class, used to represent real-world entities with properties and 
+  - Class and Object - A class defines the blueprint for creating objects, and an object is an instance of that class, used to represent real-world entities with properties and 
     methods, encapsulating behavior and data.
 
 ---
@@ -74,11 +74,10 @@
 **Day-9**  
 - **02-Feb-2025**  
 - **Topics:**  
-  - Java Constructors: A constructor in Java is a special method used to initialize objects when they are created. It has the same name as the class and can be overloaded to allow 
+  - Java Constructors - A constructor in Java is a special method used to initialize objects when they are created. It has the same name as the class and can be overloaded to allow 
     different ways of initializing objects.
-  - Instance vs. Class Variables: Instance variables are tied to a specific object and are created when the object is instantiated. Class variables are shared among all instances of 
-    a class, defined using the static keyword, and are created when the class is loaded.
-  - Access Modifiers: Access modifiers in Java (e.g., public, private, protected) control the visibility and accessibility of classes, methods, and variables. They determine which 
+  - Instance vs. Class Variables - Instance variables are tied to a specific object and are created when the object is instantiated. Class variables are shared among all instances       of a class, defined using the static keyword, and are created when the class is loaded.
+  - Access Modifiers - Access modifiers in Java (e.g., public, private, protected) control the visibility and accessibility of classes, methods, and variables. They determine which 
     other classes can access or modify a given member. 
 
 ---
