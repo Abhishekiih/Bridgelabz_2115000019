@@ -64,9 +64,9 @@
 **Day-8**  
 - **31-Jan-2025**  
 - **Topics:**  
-  - Procedural vs Object-Oriented Programming (OOP) - Procedural programming focuses on functions and procedures to perform tasks, while OOP organizes code around objects and       
+  - Procedural vs Object-Oriented Programming (OOP) – Procedural programming focuses on functions and procedures to perform tasks, while OOP organizes code around objects and       
     classes, encouraging reusability, inheritance, and encapsulation.
-  - Class and Object - A class defines the blueprint for creating objects, and an object is an instance of that class, used to represent real-world entities with properties and 
+  - Class and Object – A class defines the blueprint for creating objects, and an object is an instance of that class, used to represent real-world entities with properties and 
     methods, encapsulating behavior and data.
 
 ---
@@ -74,10 +74,20 @@
 **Day-9**  
 - **02-Feb-2025**  
 - **Topics:**  
-  - Java Constructors - A constructor in Java is a special method used to initialize objects when they are created. It has the same name as the class and can be overloaded to allow 
+  - Java Constructors – A constructor in Java is a special method used to initialize objects when they are created. It has the same name as the class and can be overloaded to allow 
     different ways of initializing objects.
-  - Instance vs. Class Variables - Instance variables are tied to a specific object and are created when the object is instantiated. Class variables are shared among all instances       of a class, defined using the static keyword, and are created when the class is loaded.
-  - Access Modifiers - Access modifiers in Java (e.g., public, private, protected) control the visibility and accessibility of classes, methods, and variables. They determine which 
+  - Instance vs. Class Variables – Instance variables are tied to a specific object and are created when the object is instantiated. Class variables are shared among all instances       of a class, defined using the static keyword, and are created when the class is loaded.
+  - Access Modifiers – Access modifiers in Java (e.g., public, private, protected) control the visibility and accessibility of classes, methods, and variables. They determine which 
     other classes can access or modify a given member. 
 
 ---
+
+**Day-10**  
+- **04-Feb-2025**  
+- **Topics:**  
+  - Efficient Memory Usage with Static – Use static for shared values and utility methods to reduce memory usage and avoid redundancy. Static variables belong to the class rather        than any instance, making them ideal for constants and counters.
+  - Avoiding Ambiguity with This – Leverage this to reference the current instance and avoid ambiguity when initializing attributes. It helps differentiate between instance              variables and parameters with the same name.
+  - Ensuring Immutability with Final – Declare final variables for identifiers or constants that should remain unchanged. The final keyword prevents modification, ensuring data          integrity.
+  - Safe Type Checking with Instanceof – Use instanceof for safe type-checking and to prevent runtime errors during typecasting. This ensures that an object is of a specific type        before performing operations on it.
+  - **Practice Problems** – [Bank Account System, Library Management System, Employee Management System, Shopping Cart System, University Student Management, Vehicle Registration System, Hospital Management System ]
+
