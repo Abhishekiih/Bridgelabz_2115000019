@@ -94,7 +94,7 @@
 ---
 
 **Day-11**  
-- **05-Feb-2025**  
+- **06-Feb-2025**  
 - **Topics:**  
   - Object-Oriented Design Principles – focus on structuring software using objects, promoting modularity, reusability, and maintainability through concepts like encapsulation, inheritance, and polymorphism. 
   - Class Diagram – Visual representation of system structure and relationships.  
