@@ -104,7 +104,14 @@
 
 ---
 
+**Day-12**  
+- **07-Feb-2025**  
+- **Topics:**  
+  - Single-Level and Multilevel Inheritance – Enables a class to inherit properties and methods from a parent class, with multilevel inheritance extending this chain further.
+  - Method Overriding – Allows a subclass to redefine a method from its parent class, enabling runtime polymorphism.
+  - Constructor Inheritance – While constructors are not inherited, a subclass can invoke the parent class constructor using super().
+  - **Practice Problems** – [Animal Hierarchy, Employee Management System, Vehicle and Transport System, Library Management with Books and Authors, Smart Home Devices
+, Online Retail Order Management, Educational Course Hierarchy, Bank Account Types, School System with Different Roles, Restaurant Management System with Hybrid Inheritance, Vehicle Management System with Hybrid Inheritance.]
 
-
-
+---
 
