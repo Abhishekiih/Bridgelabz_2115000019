@@ -115,3 +115,14 @@
 
 ---
 
+**Day-13**  
+- **10-Feb-2025**  
+- **Topics:**  
+  - Encapsulation – Use private access modifiers for fields, provide public getters/setters, validate data in setters, and follow naming conventions for methods (e.g., getX, setX).
+  - Polymorphism – Program to interfaces, ensure overridden methods follow the base class contract, avoid explicit casting, and keep inheritance hierarchies simple.
+  - Interfaces – Use interfaces to define contracts, prefer default methods when needed, and favor composition over inheritance for combining behaviors.
+  - Abstract Classes – Use abstract classes for shared state/functionality and combine them with interfaces to separate behavior from implementation.
+  - **Practice Problems** – [Employee Management System, E-Commerce Platform, Vehicle Rental System, Banking System, Library Management System, Online Food Delivery System, Hospital Patient Management, Ride-Hailing Application.]
+
+---
+
