@@ -135,3 +135,14 @@
   - **Practice Problems** – [Singly Linked List: Student Record Management, Doubly Linked List: Movie Management System, Circular Linked List: Task Scheduler, Singly Linked List: Inventory Management System, Doubly Linked List: Library Management System, Circular Linked List: Round Robin Scheduling Algorithm, Singly Linked List: Social Media Friend Connections, Doubly Linked List: Undo/Redo Functionality for Text Editor, Circular Linked List: Online Ticket Reservation System.]
 
 ---
+
+**Day-15**  
+- **13-Feb-2025**  
+- **Topics:**  
+  - Stack – A LIFO (Last In, First Out) data structure where elements are added and removed from the top (e.g., push() and pop() operations).
+  - Queue – A FIFO (First In, First Out) data structure where elements are added at the rear and removed from the front (e.g., enqueue() and dequeue() operations).
+  - HashMap – A key-value data structure that allows O(1) average time for insertions, deletions, and lookups using hashing, with collision handling (e.g., separate chaining).
+  - HashSet – A collection that stores unique elements in O(1) average time using a hash table, where duplicates are automatically ignored. 
+  - **Practice Problems** – [Implement a Queue Using Stacks, Sort a Stack Using Recursion, Stock Span Problem, Sliding Window Maximum, Circular Tour Problem, Find All Subarrays with Zero Sum, Check for a Pair with Given Sum in an Array, Longest Consecutive Sequence, Implement a Custom Hash Map, Two Sum Problem.]
+
+---
