@@ -146,3 +146,12 @@
   - **Practice Problems** – [Implement a Queue Using Stacks, Sort a Stack Using Recursion, Stock Span Problem, Sliding Window Maximum, Circular Tour Problem, Find All Subarrays with Zero Sum, Check for a Pair with Given Sum in an Array, Longest Consecutive Sequence, Implement a Custom Hash Map, Two Sum Problem.]
 
 ---
+
+**Day-16**  
+- **14-Feb-2025**  
+- **Topics:**  
+  - Sorting – Sorting algorithms are used to arrange elements in a specified order (ascending or descending) to optimize data processing. Common Algorithms include Bubble Sort, 
+    Quick Sort, and Merge Sort, each with varying time complexities and use cases.
+  - **Practice Problems** – [Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort, Heap Sort, Counting Sort.]
+     
+---
