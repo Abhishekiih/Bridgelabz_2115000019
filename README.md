@@ -159,15 +159,23 @@
 **Day-17**  
 - **15-Feb-2025**  
 - **Topics:**
-  - StringBuilder: Use for efficient string manipulations in performance-sensitive scenarios. Prefer append() over + and initialize with a proper capacity.
-  - StringBuffer: Use in multi-threaded environments for thread-safe string manipulation. Avoid in single-threaded cases due to performance overhead.
-  - FileReader: Suitable for reading small text files. Wrap with BufferedReader for better performance and handle IOExceptions properly.
-  - InputStreamReader: Converts byte streams to character streams, useful for handling encodings. Wrap with BufferedReader and specify the correct charset.
-  - Linear Search: Works well for small or unsorted data. Return early when found and avoid for large datasets where efficient searches are needed.
-  - Binary Search: Use for sorted data for fast lookups. Ensure sorting before applying and use mid = low + (high - low) / 2 to prevent overflow.
+  - StringBuilder – Use for efficient string manipulations in performance-sensitive scenarios. Prefer append() over + and initialize with a proper capacity.
+  - StringBuffer – Use in multi-threaded environments for thread-safe string manipulation. Avoid in single-threaded cases due to performance overhead.
+  - FileReader – Suitable for reading small text files. Wrap with BufferedReader for better performance and handle IOExceptions properly.
+  - InputStreamReader – Converts byte streams to character streams, useful for handling encodings. Wrap with BufferedReader and specify the correct charset.
+  - Linear Search – Works well for small or unsorted data. Return early when found and avoid for large datasets where efficient searches are needed.
+  - Binary Search – Use for sorted data for fast lookups. Ensure sorting before applying and use mid = low + (high - low) / 2 to prevent overflow.
   - **Practice Problems** – [Reverse a String Using StringBuilder, Remove Duplicates from a String Using StringBuilder, Concatenate Strings Efficiently Using StringBuffer, Compare StringBuffer with StringBuilder for String Concatenation, Read a File Line by Line Using FileReader, Count the Occurrence of a Word in a File Using FileReader, Convert Byte Stream to Character Stream Using InputStreamReader, Read User Input and Write to File Using InputStreamReader, Compare StringBuilder, StringBuffer, FileReader, and InputStreamReader, Search for the First Negative Number, Search for a Specific Word in a List of Sentences, Find the Rotation Point in a Rotated Sorted Array, Find the Peak Element in an Array, Search for a Target Value in a 2D Sorted Matrix, First and Last Occurrence of an Element in a Sorted Array, Challenge Problem (for both Linear and Binary Search).]
 
 ---
 
+**Day-18**  
+- **17-Feb-2025**  
+- **Topics:**
+  - Time Complexity – It describes the computational time an algorithm takes to run as a function of input size (e.g., O(1), O(N), O(log N)).
+  - Space Complexity – It represents the amount of memory an algorithm uses, including input storage and auxiliary space (e.g., O(1), O(N), O(N²)).
+  - **Practice Problems** – [ Search a Target in a Large Dataset, Sorting Large Data Efficiently, String Concatenation Performance,  Large File Reading Efficiency, Recursive vs     Iterative Fibonacci Computation, Comparing Different Data Structures for Searching.]
+
+---
 
 
