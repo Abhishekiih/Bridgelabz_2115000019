@@ -178,4 +178,12 @@
 
 ---
 
+**Day-19**  
+- **18-Feb-2025**  
+- **Topics:**
+  - Generics in Java enable compile-time type checking, ensuring that only compatible types are used and preventing runtime errors like ClassCastException.
+  - They allow the creation of reusable and flexible code by using type parameters that work with any object type.
+  - Additionally, generics eliminate the need for explicit type casting, making code cleaner and reducing the chances of runtime errors.
+  - **Practice Problems** – [Smart Warehouse Management System, Dynamic Online Marketplace,  Multi-Level University Course Management System, Personalized Meal Plan Generator, AI-Driven Resume Screening System.]
+
 
