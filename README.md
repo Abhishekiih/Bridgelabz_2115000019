@@ -214,5 +214,18 @@
 
 ---
 
+**Day-22**  
+- **22-Feb-2025**  
+- **Topics:**
+  - **Exceptions in Java** – Exceptions in Java are unexpected events that disrupt the normal flow of a program. They can be handled using various mechanisms to prevent crashes and ensure smooth execution.  
+  - **Types of Exceptions:**  
+    - Checked Exceptions – Exceptions that must be handled at compile-time using try-catch or throws, such as IOException and SQLException.  
+    - Unchecked Exceptions – Occur at runtime and do not require explicit handling, like NullPointerException and ArithmeticException.  
+    - Custom Exceptions – User-defined exceptions that extend Exception or RuntimeException to handle specific application errors.  
+  - Handling Exceptions – Exceptions in Java are handled using try-catch, try-catch-finally, try-with-resources, throws, and throw to prevent program crashes and ensure smooth     execution.  
+  - **Practice Problems** – [Checked Exception (Compile-time Exception), Unchecked Exception (Runtime Exception), Custom Exception (User-defined Exception), Multiple Catch Blocks, try-with-resources (Auto-closing Resources), throw vs. throws (Exception Propagation), finally Block Execution, Exception Propagation in Methods, Nested try-catch Block, Bank Transaction System (Checked + Custom Exception).]
+ 
+---
+
 
 
