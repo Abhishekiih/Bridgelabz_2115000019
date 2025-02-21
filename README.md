@@ -200,5 +200,18 @@
 
 ---
 
+**Day-21**  
+- **21-Feb-2025**  
+- **Topics:**
+  - Java I/O Streams – Java I/O Streams are used to perform input and output operations in Java, allowing data to be read from and written to different sources like files, memory,      or network connections.
+  - File Streams – Used to read from or write to files on the disk using classes like `FileInputStream` and `FileOutputStream`.
+  - Object Streams – Enable serialization and deserialization of objects using `ObjectInputStream` and `ObjectOutputStream`.
+  - ByteArray Streams – Allow reading and writing data in memory using byte arrays (`ByteArrayInputStream`, `ByteArrayOutputStream`).
+  - Buffered Streams – Enhance performance by buffering data before reading/writing, using `BufferedInputStream` and `BufferedOutputStream`.
+  - Reader and Writer – Handle character-based input and output operations, with classes like `FileReader`, `FileWriter`, `BufferedReader`, and `BufferedWriter`.
+  - **Practice Problems** – [File Handling - Read and Write a Text File, Buffered Streams - Efficient File Copy, Read User Input from Console, Serialization - Save and Retrieve an Object, ByteArray Stream - Convert Image to ByteArray, Filter Streams - Convert Uppercase to Lowercase, Data Streams - Store and Retrieve Primitive Data, Piped Streams - Inter-Thread Communication, Read a Large File Line by Line, Count Words in a File.]
+
+---
+
 
 
