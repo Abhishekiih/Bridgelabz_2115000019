@@ -1,0 +1,3 @@
+HELLO, This is a SAMPLE Text FILE.
+Java Programming IS Fun!
+STREAMS AND FILE HANDLING IN JAVA.
