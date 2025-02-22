@@ -227,5 +227,14 @@
  
 ---
 
+**Day-23**  
+- **23-Feb-2025**  
+- **Topics:**
+  - Regex (Regular Expressions) – A sequence of characters defining a search pattern, used for text matching and manipulation in various programming languages.
+  - JUnit –A widely used testing framework in Java for unit testing, enabling test automation and ensuring code reliability.  
+  - **Practice Problems** – [BankAccount, Calculator, DatabaseConnection, DateFormatter, DivideByZeroManager, FileProcessor, ListManager, NumberUtils, PasswordValidator, PerformanceUtils, StringUtils, TemperatureConverter, UserRegistration, CapitalizedWordExtractor, CensorBadWords, DateExtractor, EmailExtractor, ExtractCurrency, ExtractLanguages, FindRepeatingWords, HexColorValidator, LicensePlateValidator, LinkExtractor, SpaceNormalizer, UsernameValidator, ValidateCreditCard, ValidateIPAddress, ValidateSSN.]
+
+---
+
 
 
