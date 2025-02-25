@@ -243,6 +243,18 @@
   - Reflection – Reflection in Java is a feature that allows inspection and manipulation of classes, methods, and fields at runtime. It enables dynamic instantiation, method       
 invocation, and accessing private members, commonly used in frameworks, debugging, and testing.
   - **Practice Problems** – [Use @Override Correctly, Use @Deprecated to Mark an Old Method, Suppress Unchecked Warnings, Create a Custom Annotation and Use It, Create and Use a Repeatable Annotation, Create an Annotation to Mark Important Methods, Create a @Todo Annotation for Pending Tasks, Create an Annotation for Logging Method Execution Time, Create a @MaxLength Annotation for Field Validation, Implement a Role-Based Access Control with @RoleAllowed, Implement a Custom Serialization Annotation @JsonField, Implement a Custom Caching System with @CacheResult, Get Class Information, Access Private Field, Invoke Private Method, Dynamically Create Objects, Dynamic Method Invocation, Retrieve Annotations at Runtime, Access and Modify Static Fields, Create a Custom Object Mapper, Generate a JSON Representation, Custom Logging Proxy Using Reflection, Dependency Injection using Reflection, Method Execution Timing.]
+ 
+---
+
+**Day-25**  
+- **25-Feb-2025**  
+- **Topics:**
+  - Introduction to CSV – CSV (Comma-Separated Values) is a lightweight file format used for storing and exchanging tabular data in plain text.
+  - Reading CSV Files – This project demonstrates how to read CSV files using libraries like OpenCSV to efficiently parse and process data records.
+  - Writing CSV Files – We showcase techniques to write structured data into CSV files while ensuring proper formatting and encoding.
+  - Parsing CSV Data – CSV parsing converts raw CSV text into structured objects, enabling seamless data manipulation within your application.
+  - Data Validation – Data validation ensures that CSV records conform to expected formats and rules before further processing.
+  - **Practice Problems** – [Read a CSV File and Print Data, Write Data to a CSV File, Read and Count Rows in a CSV File, Filter Records from CSV, Search for a Record in CSV, Modify a CSV File (Update a Value), Sort CSV Records by a Column, Validate CSV Data Before Processing, Convert CSV Data into Java Objects, Merge Two CSV Files, Read Large CSV File Efficiently, Detect Duplicates in a CSV File, Generate a CSV Report from Database, Convert JSON to CSV and Vice Versa, Encrypt and Decrypt CSV Data.]
 
 
 
